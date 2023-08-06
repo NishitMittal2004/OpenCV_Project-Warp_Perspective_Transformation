@@ -30,6 +30,7 @@ To run the script `webcamMouseImpl.py`, you need the following installed:
 - NumPy
 
 ## Examples
+![img](https://github.com/NishitMittal2004/OpenCV_Project-Warp_Perspective_from_clicks/blob/main/Output%20Img.png)
 
 
 
